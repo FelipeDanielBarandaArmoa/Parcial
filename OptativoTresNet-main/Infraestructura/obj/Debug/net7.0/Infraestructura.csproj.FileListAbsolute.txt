@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\OptativoTresNet-main\Infraestructura\obj\Debug\net7.0\Infraestructura.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OptativoTresNet-main\Infraestructura\obj\Debug\net7.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OptativoTresNet-main\Infraestructura\obj\Debug\net7.0\Infraestructura.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OptativoTresNet-main\Infraestructura\obj\Debug\net7.0\Infraestructura.AssemblyInfo.cs
+C:\Users\User\Desktop\OptativoTresNet-main\Infraestructura\obj\Debug\net7.0\Infraestructura.csproj.CoreCompileInputs.cache
